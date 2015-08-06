@@ -14,10 +14,10 @@ local coords = {
 	tright={x=245,y=120}
 } --End of "coords" table
 
-print('                         ------------------------------------------------');
-print('                                          Script by PaRaDoX');
-print('                                   http://pokemon-project.com');
-print('                         ------------------------------------------------');
+print('                         ------------------------------------------------')
+print('                                          Script by PaRaDoX')
+print('                                   http://pokemon-project.com')
+print('                         ------------------------------------------------')
 
 while(true) do
 	local inp=input.get(0)
